@@ -45,7 +45,6 @@ Computer Engineering graduate (2025) with professional experience at **INEV Tech
 | Project | Built with |
 |---|---|
 | [portfolio](https://github.com/poudelaman4/portfolio) — this site | React 19, Vite, Tailwind CSS |
-| [gharbeti](https://github.com/poudelaman4/gharbeti) + [gharbeti-back](https://github.com/poudelaman4/gharbeti-back) — rental management | Expo, Express, Prisma, PostgreSQL |
 | [service-provider](https://github.com/poudelaman4/service-provider) — multi-role booking marketplace | Angular, Node.js/Express, MySQL |
 | [Final_Year_project](https://github.com/poudelaman4/Final_Year_project) — NFC campus payment system | PHP, MySQL |
 | [movie-sentiment](https://github.com/poudelaman4/movie-sentiment) — sentiment analysis dashboard | Angular, Flask, MongoDB |
