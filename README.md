@@ -3,7 +3,6 @@
 **Full-Stack Developer** · Bharatpur, Nepal 🇳🇵
 
 I build web and mobile products end-to-end — database schema, API, and the UI on top.
-Currently at INEV Technologies, working with React/Next.js, NestJS, WordPress and Postgres.
 
 **[paudelaman.com.np](https://paudelaman.com.np)** · **[poudelaman4@gmail.com](mailto:poudelaman4@gmail.com)**
 
