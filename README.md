@@ -1,71 +1,67 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi, I'm Aman Paudel 👋;Full-Stack Developer from Nepal 🇳🇵;I build things for the web (and phones, and WordPress))](https://git.io/typing-svg)
+# Aman Paudel
 
-[![Website](https://img.shields.io/badge/website-paudelaman.com.np-000?style=flat-square&logo=google-chrome&logoColor=white)](https://paudelaman.com.np)
-[![Email](https://img.shields.io/badge/email-poudelaman4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:poudelaman4@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=poudelaman4&color=blueviolet&style=flat-square)](https://github.com/poudelaman4)
+**Full-Stack Developer** · Bharatpur, Nepal 🇳🇵
+
+[paudelaman.com.np](https://paudelaman.com.np) &nbsp;•&nbsp; [poudelaman4@gmail.com](mailto:poudelaman4@gmail.com) &nbsp;•&nbsp; [@poudelaman4](https://github.com/poudelaman4)
 
 </div>
 
 ---
 
-**Computer Engineering grad turned full-stack developer.** By day I write TypeScript at the intersection of React, Node and PostgreSQL. By night I ship side projects, break WordPress in production-safe ways, and make small games nobody asked for.
+I build products end-to-end — data model, API, and the interface on top. Currently at **INEV Technologies**, where I've built a multi-tenant LMS, a React Native rental app, custom WordPress plugins and full-site-editing themes.
 
-### 🎯 Currently
+Before that: a Computer Engineering degree (2025), a NFC-based campus payment system for my final year project, and a growing collection of games made in Godot that are definitely playable.
 
-- 🔨 Redesigning my [portfolio site](https://github.com/poudelaman4/portfolio) (again — it's a disease)
-- 📚 Leveling up system design and database internals
-- 🎮 Teaching myself Godot so my games can have *actual* physics
+### Where I am now
 
-### 🛠️ What I mess with
+- 🔨 Rebuilding my portfolio site for the third time — a classic developer illness
+- 📚 Getting deeper into system design and how databases actually work under the hood
+- 🎮 Learning Godot properly, so my games can have *real* physics next time
 
-```json
-{
-  "languages": ["TypeScript", "JavaScript", "PHP", "SQL", "Python"],
-  "frontend": ["React", "Next.js", "Angular", "React Native", "Tailwind"],
-  "backend": ["NestJS", "Express", "Node.js", "WordPress plugins"],
-  "databases": ["PostgreSQL", "MySQL", "Redis", "Prisma"],
-  "devops": ["Docker", "Linux (Fedora)", "Git"]
-}
-```
+### The stack
 
-<div align="center">
+| | |
+|:--|:--|
+| **Languages** | `TypeScript` `JavaScript` `PHP` `SQL` `Python` `C#` |
+| **Frontend** | `React` `Next.js` `Angular` `React Native` `Tailwind CSS` |
+| **Backend** | `NestJS` `Node.js` `Express` `REST APIs` `WordPress` |
+| **Data & infra** | `PostgreSQL` `MySQL` `Redis` `Prisma` `MongoDB` `Docker` |
+| **Platform** | `Linux` `Git` `GitHub Actions` `Vite` |
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=poudelaman4&show_icons=true&hide_border=true&rank_icon=github)
+### Things I've built
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poudelaman4&layout=compact&hide_border=true)
+**At work** *(private repos)*
+- **Multi-tenant LMS** — institutions with their own branding and data, one core API. Courses, quizzes, certificates, and payment splits via Khalti/eSewa/Dodo.
+- **Rental management app** — Expo client + Express/Prisma backend for landlords and tenants.
+- **Visual workflow automation** — a no-code canvas where you connect triggers to actions, WordPress-style.
+- **Appointment booking engine** — slot-availability logic with a React admin dashboard.
 
-</div>
+**Open source**
+- [**portfolio**](https://github.com/poudelaman4/portfolio) — this site. React 19, Vite, Tailwind.
+- [**service-provider**](https://github.com/poudelaman4/service-provider) — marketplace connecting customers with local service pros.
+- [**Final_Year_project**](https://github.com/poudelaman4/Final_Year_project) — NFC canteen payments for campus life.
+- [**movie-sentiment**](https://github.com/poudelaman4/movie-sentiment) — sentiment dashboard for movie reviews.
+- [**game**](https://github.com/poudelaman4/game) — small 2D/3D experiments in GDScript.
 
-### 🗂️ Stuff I've built
+### A few honest facts
 
-- 🏫 **Multi-tenant LMS** — courses, quizzes, certificates, payment splits (work project, private)
-- 🏠 **Gharbeti** — rental management app for landlords and tenants (private)
-- 📝 **Workflow Automation Engine** — no-code drag-and-drop canvas for WordPress
-- 🛒 [**service-provider**](https://github.com/poudelaman4/service-provider) — marketplace matching customers with local service pros
-- 🍽️ [**Final_Year_project**](https://github.com/poudelaman4/Final_Year_project) — NFC canteen payments for campus life
-- 🎬 [**movie-sentiment**](https://github.com/poudelaman4/movie-sentiment) — what does the internet *really* think of this film?
-- 🎮 [**game**](https://github.com/poudelaman4/game) — GDScript experiments
-- 🌐 [**portfolio**](https://github.com/poudelaman4/portfolio) — this very site
-
-### 🤓 Fun facts
-
-- I once debugged a WordPress plugin at 2 AM. The bug was a missing space. **It's always a missing space.**
-- Nepal runs on GMT+5:45 — yes, the 45 minutes matter.
-- I think in Postgres schemas and dream in Tailwind classes.
-- ⭐ Star anything you like — it fuels my dopamine.
-
-### 📜 Certifications
+- The bug is usually a missing space. I found that out the hard way at 2 AM with a WordPress plugin.
+- Nepal's timezone is GMT+5:45. The 45 minutes are non-negotiable.
+- I'd rather write a clean schema than a clever hack — every single time.
+- Stars on repos you like are accepted as payment.
 
 <details>
-<summary>Click to stalk my certificates 🕵️</summary>
+<summary>📜 Certifications</summary>
 <br/>
 
 **Machine Learning Using Python**
+
 ![ML Certificate](https://github.com/poudelaman4/poudelaman4/raw/main/ml.png)
 
 **Active Participant in #60DaysOfLearning2025**
+
 ![60 Days of Learning](https://github.com/poudelaman4/poudelaman4/raw/main/leapfrog.jpeg)
 
 </details>
@@ -74,8 +70,10 @@
 
 <div align="center">
 
-**I'm always up for a good chat about web dev, WordPress internals, or why Vim is a personality (it is).**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=poudelaman4&show_icons=true&hide_border=true&rank_icon=github)
 
-**→ [paudelaman.com.np](https://paudelaman.com.np)** · **→ [poudelaman4@gmail.com](mailto:poudelaman4@gmail.com)**
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poudelaman4&layout=compact&hide_border=true)
+
+**Like what you see?** &nbsp; [Drop me an email](mailto:poudelaman4@gmail.com) — I reply to humans.
 
 </div>
